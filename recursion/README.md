@@ -1,0 +1,10 @@
+- factorial
+- fibonacci series
+- reverse string
+- count up
+- count down
+- reverse number (*)
+- natural sum
+- power func
+- gcd
+- to binary (*)
